@@ -5,7 +5,7 @@ English | [简体中文](README.md)
 <p align="center">
 <p align="center">
     <a href="https://qm.qq.com/q/CkEX6hUMMg"><img src="https://img.shields.io/badge/Chat-QQ-7488d1.svg" alt="Chat"></a>
-    <a href="https://github.com/c-cleaner/c-cleaner/releases"><img src="https://img.shields.io/github/v/release/c-cleaner/c-cleaner?color=ffa"></a>
+    <a href="https://github.com/ChenXi996/c-cleaner/releases"><img src="https://img.shields.io/github/v/release/c-cleaner/c-cleaner?color=ffa"></a>
     <a href=""><img src="https://img.shields.io/badge/os-win-pink.svg"></a>
 </p>
 
