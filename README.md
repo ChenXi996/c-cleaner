@@ -45,7 +45,7 @@
 前往 [极智C盘清理官网](https://cc.cpanx.com) 下载最新的安装包，然后双击安装使用即可。
 
 - 绿色版
-前往 [极智C盘清理绿色软件包下载地址](https://github.com/c-cleaner/c-cleaner/releases) 下载最新的绿色压缩包，然后解压，再双击启动主程序 ***CPanx.exe*** 文件即可使用。
+前往 [极智C盘清理绿色软件包下载地址](https://github.com/ChenXi996/c-cleaner/releases) 下载最新的绿色压缩包，然后解压，再双击启动主程序 ***CPanx.exe*** 文件即可使用。
 
 
 ## 📖 用户反馈、技术交流、商务合作

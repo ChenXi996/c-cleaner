@@ -48,7 +48,7 @@ Assist tools such as data recovery, defrag, toolbox, calculator, screen-capture,
 Go to the  [official website of C-Cleaner](https://cc.cpanx.com)  to download the latest installation package, then double-click to install and use it.
 
 - portable package
-Go to the  [release url address](https://github.com/c-cleaner/c-cleaner/releases)  to download the latest portable package, then unzip it, and double-click to start the main program file(CPanx.exe) to use.
+Go to the  [release url address](https://github.com/ChenXi996/c-cleaner/releases)  to download the latest portable package, then unzip it, and double-click to start the main program file(CPanx.exe) to use.
 
 
 ## 📖 Technical Exchange And Cooperation
